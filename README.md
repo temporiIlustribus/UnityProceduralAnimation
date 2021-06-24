@@ -22,4 +22,4 @@ Example of a system which you can build using these classes can be found in `Pla
 #### Small demo:
 Stair Demonstration for leg IK
 
-<img src="https://media.giphy.com/media/wrBeu9fc6venDspj0A/giphy.gif" width="480" height="374">
+<img src="https://media.giphy.com/media/wrBeu9fc6venDspj0A/giphy-downsized-large.gif" width="480">
